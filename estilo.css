@@ -1,0 +1,13 @@
+.conteudo{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin: 10px 20px;
+}
+
+.card-img-top{
+    height: 300px;
+    object-fit: cover;
+}
